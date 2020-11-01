@@ -1,0 +1,13 @@
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\bin\Debug\netcoreapp3.1\Guessing_Number.exe
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\bin\Debug\netcoreapp3.1\Guessing_Number.deps.json
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\bin\Debug\netcoreapp3.1\Guessing_Number.runtimeconfig.json
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\bin\Debug\netcoreapp3.1\Guessing_Number.runtimeconfig.dev.json
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\bin\Debug\netcoreapp3.1\Guessing_Number.dll
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\bin\Debug\netcoreapp3.1\Guessing_Number.pdb
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\obj\Debug\netcoreapp3.1\Guessing_Number.csprojAssemblyReference.cache
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\obj\Debug\netcoreapp3.1\Guessing_Number.AssemblyInfoInputs.cache
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\obj\Debug\netcoreapp3.1\Guessing_Number.AssemblyInfo.cs
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\obj\Debug\netcoreapp3.1\Guessing_Number.csproj.CoreCompileInputs.cache
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\obj\Debug\netcoreapp3.1\Guessing_Number.dll
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\obj\Debug\netcoreapp3.1\Guessing_Number.pdb
+D:\dotnetWork\ConsoleApplication\Guessing_Number\Guessing_Number\obj\Debug\netcoreapp3.1\Guessing_Number.genruntimeconfig.cache
